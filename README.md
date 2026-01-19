@@ -11,5 +11,6 @@ Este proyecto utiliza **Machine Learning** para predecir el tamaño de planetas 
 * Python (Pandas, Scikit-Learn, Matplotlib)
 * Datos reales del NASA Exoplanet Archive.
 
-  https://cdn-images-1.medium.com/fit/c/124/124/1*km7eLBQMCYS5fGNwsRC66w.png<img width="124" height="124" alt="image" src="https://github.com/user-attachments/assets/37ad4d92-4cab-47a7-96da-900de270c589" />
+## Imagen
+<img width="1312" height="880" alt="image" src="https://github.com/user-attachments/assets/b57c8a0f-53e1-4a0f-a61f-ecd99f80a005" />
 
